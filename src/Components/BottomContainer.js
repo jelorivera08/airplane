@@ -36,6 +36,8 @@ const BottomContainer = props => (
         <Typography className={props.classes.panes} component="div">
           RED color means the seat is taken <br />
           GREEN color means the seat is available<br />
+          MAXIMUM ROWS for this DEMO is 20 units <br/>
+          MAXIMUM MIDDLE AND SIDE BLOCKS is 10 units <br/>
         </Typography>
       </Grid>
     </Grid>
